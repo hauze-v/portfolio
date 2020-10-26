@@ -265,23 +265,6 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*** Footer Call-to-action ***/
 #footer-cta {
 	background-color: rgba(255, 103, 68, 0.91);
@@ -330,6 +313,9 @@ h1, h2, h3, h4, h5, h6 {
 	font-size: 1.6em;
 	font-weight: 500;
 	display: inline;
+}
+#footer #logo:hover {
+	opacity: 0.8;
 }
 
 #footer #copyright {
