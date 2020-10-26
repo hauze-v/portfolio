@@ -20,7 +20,7 @@ function makeWords() {
 			weight: 11.2
 		}, {
 			text: "HTML attributes",
-			weight: 10
+			weight: 10.25
 		}, {
 			text: "Anatomy of HTML document",
 			weight: 10.5

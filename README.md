@@ -1,2 +1,4 @@
-# adhoc-portfolio
-My portfolio specifically for Chicago Digital since I haven't updated my page in a long while :) and also for fun!!!
+# Adam's Portfolio
+My first web-dev portfolio showcases my self-taught experience since my journay began in February 2020.
+
+It also highlights some key projects I've done and what I learned while building them.
